@@ -39,7 +39,8 @@ public class targil1 { // the parking cars problem
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		
+		System.out.println();
 		targil1 test = new targil1(10);
 		System.out.println(test.numOfCars());
 		test.setVal(1000, 3);
